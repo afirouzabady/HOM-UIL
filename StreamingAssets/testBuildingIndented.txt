@@ -1,0 +1,479 @@
+{
+  "siteArea": 20506,
+  "gea": 40689,
+  "gia": 37683,
+  "nia": 29489,
+  "netgross": 78,
+  "unitDensity": 227.0,
+  "habitableDensity": 584.0,
+  "ptalRating": "6a",
+  "images": [
+    null
+  ],
+  "date": "07/03/2019",
+  "generalWarnings": [
+    "The area of the plant room exceeds that of the ground floor. Extra space would be required in other floors."
+  ],
+  "buildings": [
+    {
+      "buildingName": "North Building",
+      "constructionSystems": {
+        "CLT_Modules": {
+          "warnings": [
+            "",
+            "",
+            "Cannot support party wall thickness between 0 and 330mm",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            0,
+            1,
+            1
+          ]
+        },
+        "HRS_Modules": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        "CLT_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        "Timber_Panels": {
+          "warnings": [
+            "Cannot support overall height between 5 and 100stories",
+            "",
+            "Cannot support party wall thickness between 0 and 314mm",
+            "",
+            "Cannot support panel length between 6 and 100 m"
+          ],
+          "feasibility": [
+            0,
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        "Steel_Frame_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            1,
+            2,
+            2,
+            2,
+            0
+          ]
+        },
+        "Concrete_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            1,
+            2,
+            2,
+            2,
+            1
+          ]
+        }
+      },
+      "gea": 13946,
+      "gia": 13107,
+      "nia": 10045,
+      "netgross": 76,
+      "aptNumbers": {
+        "Studio": "0,0",
+        "1b2p": "0,0",
+        "2b3p": "56,3416",
+        "2b4p": "70,4900",
+        "3b5p": "0,0",
+        "SpecialApt": "56,1722"
+      }
+    },
+    {
+      "buildingName": "South Building",
+      "constructionSystems": {
+        "CLT_Modules": {
+          "warnings": [
+            "",
+            "",
+            "Cannot support party wall thickness between 0 and 330mm",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            0,
+            1,
+            2
+          ]
+        },
+        "HRS_Modules": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        "CLT_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        "Timber_Panels": {
+          "warnings": [
+            "",
+            "",
+            "Cannot support party wall thickness between 0 and 314mm",
+            "",
+            "Cannot support panel length between 6 and 100 m"
+          ],
+          "feasibility": [
+            2,
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        "Steel_Frame_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            1,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        "Concrete_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            1,
+            2,
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "gea": 4060,
+      "gia": 3646,
+      "nia": 2204,
+      "netgross": 60,
+      "aptNumbers": {
+        "Studio": "0,0",
+        "1b2p": "16,800",
+        "2b3p": "0,0",
+        "2b4p": "0,0",
+        "3b5p": "12,1032",
+        "SpecialApt": "16,368"
+      }
+    },
+    {
+      "buildingName": "West Tower",
+      "constructionSystems": {
+        "CLT_Modules": {
+          "warnings": [
+            "Cannot support overall height between 12 and 100stories",
+            "",
+            "Cannot support party wall thickness between 0 and 330mm",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            2,
+            0,
+            1,
+            2
+          ]
+        },
+        "HRS_Modules": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        "CLT_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            1,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        "Timber_Panels": {
+          "warnings": [
+            "Cannot support overall height between 5 and 100stories",
+            "",
+            "Cannot support party wall thickness between 0 and 314mm",
+            "",
+            "Cannot support panel length between 6 and 100 m"
+          ],
+          "feasibility": [
+            0,
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        "Steel_Frame_Panels": {
+          "warnings": [
+            "Cannot support overall height between 10 and 100stories",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            2,
+            2,
+            2,
+            0
+          ]
+        },
+        "Concrete_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            2,
+            1
+          ]
+        }
+      },
+      "gea": 7858,
+      "gia": 7230,
+      "nia": 5865,
+      "netgross": 81,
+      "aptNumbers": {
+        "Studio": "0,0",
+        "1b2p": "30,1663",
+        "2b3p": "0,0",
+        "2b4p": "60,4200",
+        "3b5p": "0,0",
+        "SpecialApt": "0,0"
+      }
+    },
+    {
+      "buildingName": "East Tower",
+      "constructionSystems": {
+        "CLT_Modules": {
+          "warnings": [
+            "Cannot support overall height between 12 and 100stories",
+            "",
+            "Cannot support party wall thickness between 0 and 330mm",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            2,
+            0,
+            1,
+            2
+          ]
+        },
+        "HRS_Modules": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        "CLT_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            1,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        "Timber_Panels": {
+          "warnings": [
+            "Cannot support overall height between 5 and 100stories",
+            "",
+            "Cannot support party wall thickness between 0 and 314mm",
+            "",
+            "Cannot support panel length between 6 and 100 m"
+          ],
+          "feasibility": [
+            0,
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        "Steel_Frame_Panels": {
+          "warnings": [
+            "Cannot support overall height between 10 and 100stories",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        "Concrete_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ]
+        }
+      },
+      "gea": 14824,
+      "gia": 13700,
+      "nia": 11375,
+      "netgross": 83,
+      "aptNumbers": {
+        "Studio": "0,0",
+        "1b2p": "50,2772",
+        "2b3p": "0,0",
+        "2b4p": "0,0",
+        "3b5p": "100,8600",
+        "SpecialApt": "0,0"
+      }
+    }
+  ],
+  "aptNumbers": {
+    "Studio": "0,0",
+    "1b2p": "96,5235",
+    "2b3p": "56,3416",
+    "2b4p": "130,9100",
+    "3b5p": "112,9632",
+    "SpecialApt": "72,2090"
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "date": "05/04/2019",
+  "generalWarnings": [
+    "The amenity area for apartments Studio, 1b2p, 2b3p, 2b4p, 3b5p is too small!",
+    "The number of units in your scheme exceeds the maximum density in accordance with the PTAL rating!",
+    "The ends of your offset is too far away from the cores!"
+  ],
+  "location": "51.61967,-0.3030993",
+  "buildings": [
+    {
+      "buildingName": "North",
+      "constructionSystems": {
+        "HRS_Modules": {
+          "warnings": [
+            "",
+            "Cannot support floor to floor height between 0-2.95 and  3.3-100 m",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            1,
+            0,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        "CLT_Modules": {
+          "warnings": [
+            "Cannot support overall height between 6-100 stories",
+            "Cannot support floor to floor height between 3.26-100 and  0-2.825 m",
+            "",
+            "",
+            "Cannot support module width between 5-100 m",
+            ""
+          ],
+          "feasibility": [
+            0,
+            0,
+            1,
+            2,
+            0,
+            2
+          ]
+        },
+        "Timber_Panels": {
+          "warnings": [
+            "Cannot support overall height between 6-100 stories",
+            "Cannot support floor to floor height between 3.2-100 and  0-2.890 m",
+            "",
+            "",
+            "",
+            "Cannot support line-load span between 5.6-100 m"
+          ],
+          "feasibility": [
+            0,
+            0,
+            2,
+            2,
+            2,
+            0
+          ]
+        },
+        "Steel_Panels": {
+          "warnings": [
+            "",
+            "Cannot support floor to floor height between 3.5-100 and  0-2.85 m",
+            "",
+            "Cannot support exterior wall thickness between 0-474 mm",
+            "",
+            "Cannot support line-load span between 6-100 m"
+          ],
+          "feasibility": [
+            2,
+            0,
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        "CLT_Panels": {
+          "warnings": [
+            "Cannot support overall height between 6-100 stories",
+            "Cannot support floor to floor height between 3.26-100 and  0-2.949 m",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            0,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        "Concrete_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "Cannot support exterior wall thickness between 0-519 mm",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            1,
+            2,
+            0,
+            2,
+            2
+          ]
+        }
+      },
+      "gea": 17614,
+      "gia": 16587,
+      "nia": 9718,
+      "netgross": 58,
+      "aptNumbers": {
+        "Studio": "30,1409",
+        "1b2p": "0,0",
+        "2b3p": "75,4574",
+        "2b4p": "0,0",
+        "3b5p": "32,2751",
+        "SpecialApt": "81,816"
+      }
+    },
+    {
+      "buildingName": "south",
+      "constructionSystems": {
+        "HRS_Modules": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        "CLT_Modules": {
+          "warnings": [
+            "Cannot support overall height between 6-100 stories",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            2,
+            1,
+            2,
+            1,
+            2
+          ]
+        },
+        "Timber_Panels": {
+          "warnings": [
+            "Cannot support overall height between 6-100 stories",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            1,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        "Steel_Panels": {
+          "warnings": [
+            "Cannot support overall height between 11-100 stories",
+            "",
+            "",
+            "Cannot support exterior wall thickness between 0-474 mm",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            1,
+            2,
+            0,
+            2,
+            1
+          ]
+        },
+        "CLT_Panels": {
+          "warnings": [
+            "Cannot support overall height between 6-100 stories",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "feasibility": [
+            0,
+            2,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        "Concrete_Panels": {
+          "warnings": [
+            "",
+            "",
+            "",
+            "Cannot support exterior wall thickness between 0-519 mm",
+            "",
+            ""
+          ],
+          "feasibility": [
+            2,
+            2,
+            2,
+            0,
+            2,
+            2
+          ]
+        }
+      },
+      "gea": 7520,
+      "gia": 6916,
+      "nia": 5005,
+      "netgross": 72,
+      "aptNumbers": {
+        "Studio": "0,0",
+        "1b2p": "26,1370",
+        "2b3p": "0,0",
+        "2b4p": "52,3640",
+        "3b5p": "0,0",
+        "SpecialApt": "0,0"
+      }
+    }
+  ],
+  "aptNumbers": {
+    "Studio": "30,1409",
+    "1b2p": "26,1370",
+    "2b3p": "75,4574",
+    "2b4p": "52,3640",
+    "3b5p": "32,2751",
+    "SpecialApt": "81,816"
+  },
+  "modulesNumbers": {
+    "Module:BA_PB_STT|:3.12,7.59,3.075": 72,
+    "Module:PBB_BAA|HWW-0-1-2-5-6:3.6,7.59,3.075": 20,
+    "Module:WCC_PSB|HWW-3-4_LRR-0-5:2.4,7.59,3.075": 20,
+    "Module:|LRR-1-2-3-4:3.164999,7.59,3.075": 20,
+    "Module:BA_DB|HW-0-5-6:3.12,7.59,3.075": 101,
+    "Module:DBB_ST|HW-1-2-3-4_LR-0-5:2.4,7.59,3.075": 75,
+    "Module:|LR-1-2-3-4:3.294999,7.59,3.075": 75,
+    "Module:BA|LR-3-4:2.37,7.59,3.075": 30,
+    "Module:|LR-0-1-2-5:5.315001,7.59,3.075": 5,
+    "Module:|LR-0-1-2-5:4.835001,7.59,3.075": 5,
+    "Module:|LR-0-1-2-5:5.305,7.59,3.075": 10,
+    "Module:|LR-0-1-2-5:3.115,7.59,3.075": 10,
+    "Module:BA_PB_STT|:3.12,7.59,4": 12,
+    "Module:PBB_BAA|HWW-0-1-2-5-6:3.6,7.59,4": 12,
+    "Module:WCC_PSB|HWW-3-4_LRR-0-5:2.4,7.59,4": 12,
+    "Module:|LRR-1-2-3-4:3.164999,7.59,4": 12,
+    "Module:PBB_HWW_BAA|:3.6,7.59,3.075": 52,
+    "Module:LRR|:3.344999,7.59,3.075": 52,
+    "Module:ST_LR|HW-1-2-3-4:4.545001,7.59,3.075": 26
+  },
+  "modulesColors": {
+    "Not Modular": "0.5,0.5,0.5",
+    "Module:BA_PB_STT|": "0.4235294,0.6431373,0.6509804",
+    "Module:PBB_BAA|HWW-0-1-2-5-6": "0.9298615,0.7757253,0.4310487",
+    "Module:WCC_PSB|HWW-3-4_LRR-0-5": "0.5496706,0.7364818,0.7443249",
+    "Module:|LRR-1-2-3-4": "0.8699669,0.8187669,0.5823573",
+    "Module:BA_DB|HW-0-5-6": "0.4235294,0.6431373,0.6509804",
+    "Module:DBB_ST|HW-1-2-3-4_LR-0-5": "0.5496706,0.7364818,0.7443249",
+    "Module:|LR-1-2-3-4": "0.9298805,0.8260734,0.5312116",
+    "Module:BA|LR-3-4": "0.5023677,0.7014776,0.7093207",
+    "Module:|LR-0-1-2-5": "0.9137255,0.7019608,0.3019608",
+    "Module:PBB_HWW_BAA|": "0.9298615,0.7757253,0.4310487",
+    "Module:LRR|": "0.9401482,0.8227503,0.5133424",
+    "Module:ST_LR|HW-1-2-3-4": "0.9137255,0.7019608,0.3019608"
+  },
+  "ConstructionFeaturesName": "Timber_Panels",
+  "ConstructionFeatures": {
+    "Party Wall": 0.39,
+    "Exterior Wall": 0.453,
+    "Corridor Wall": 0.39,
+    "Maximum Panel Length": 6.0,
+    "Maximum Line-Load Span": 4.6
+  },
+  "siteArea": 6875,
+  "gea": 25134,
+  "gia": 23503,
+  "nia": 14723,
+  "netgross": 62,
+  "unitDensity": 431.0,
+  "habitableDensity": 860.0,
+  "ptalRating": "3",
+  "images": [
+    null
+  ]
+}
