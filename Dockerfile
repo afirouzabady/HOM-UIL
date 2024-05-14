@@ -1,7 +1,6 @@
-FROM nginx:alpine
+FROM nginx:latest
 
-WORKDIR /etc/nginx/conf.d
-COPY webgl.conf default.conf
+COPY . /usr/share/nginx/html
+EXPOSE 80
 
-WORKDIR /webgl
-COPY webgl .
+CMD ["nginx", "-g", "daemon off;"]
